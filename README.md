@@ -12,4 +12,6 @@ Key resources:
 
 <a href="#" class="btn--success">Success Button</a>
 
+[Link button](http://example.com/){: .btn .btn-purple }
+
 [Success Button Text](#link){: .btn .btn--success}
