@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Integrated Inferences
 description: resources to accompany the book
+github:
+  is_project_page: false
 
