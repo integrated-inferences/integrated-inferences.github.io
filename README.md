@@ -8,4 +8,5 @@ Key resources:
 * Our [Guide to `Causal Queries`](https://integrated-inferences.github.io/guide/)
 * Data
 
+<button name="button" onclick="[http://www.google.com](https://macartan.github.io/integrated_inferences/)https://macartan.github.io/integrated_inferences/">Preprint</button>
 
