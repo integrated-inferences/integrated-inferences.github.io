@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: Integrated Inferences
 description: resources to accompany the book
+github:
+  is_project_page: false
 
 !(https://assets.cambridge.org/97813166/20663/cover/9781316620663.jpg)
 
