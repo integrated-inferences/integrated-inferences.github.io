@@ -8,6 +8,8 @@ Key resources:
 * Our [Guide to `Causal Queries`](https://integrated-inferences.github.io/guide/)
 * Data
 
+<button type="button" name="button" class="btn">Button element</button>
+
 <button name="button" onclick="https://macartan.github.io/integrated_inferences/">Preprint</button>
 
 <a href="#" class="btn--success">Success Button</a>
