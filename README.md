@@ -10,3 +10,6 @@ Key resources:
 
 <button name="button" onclick="https://macartan.github.io/integrated_inferences/">Preprint</button>
 
+<a href="#" class="btn--success">Success Button</a>
+
+[Success Button Text](#link){: .btn .btn--success}
