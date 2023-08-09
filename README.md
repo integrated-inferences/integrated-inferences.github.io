@@ -8,18 +8,4 @@ Key resources:
 * Our [Guide to `Causal Queries`](https://integrated-inferences.github.io/guide/)
 * Data
 
-```{css}
-.button2 {background-color: #008CBA;} /* Blue */
-```
 
-<button class="button button2">Blue</button>
-
-<button type="button" name="button" class="btn">Button element</button>
-
-<button name="button" onclick="https://macartan.github.io/integrated_inferences/">Preprint</button>
-
-<a href="#" class="btn--success">Success Button</a>
-
-[Link button](http://example.com/){: .btn .btn-purple }
-
-[Success Button Text](#link){: .btn .btn--success}
