@@ -27,7 +27,7 @@ flowchart LR
         C("CausalQueries") === D
         D("Guide to CausalQueries")
         click A "https://www.cambridge.org/core/books/integrated-inferences/45B07964AD4718A74CDE3E35A31F26FA"
-        click B "https://macartan.github.io/integrated_inferences/"
+        click B "https://integrated-inferences.github.io/book/"
         click C "https://integrated-inferences.github.io/CausalQueries/"
         click D "https://macartan.github.io/assets/pdf/papers/2024_CausalQueries.pdf"
         
