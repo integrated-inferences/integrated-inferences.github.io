@@ -1,43 +1,38 @@
 ---
-title: ""
+title: "Integrated Inferences"
 subtitle: "Causal Models for Qualitative and Mixed-Method Research"
 author: Macartan Humphreys and Alan Jacobs
 format:
   html: 
     theme: pulse
-    embed-resources: true
 ---
 
 
 video introductions to the big ideas | [resources](https://integrated-inferences.github.io/)
 
-<style>
-.video-container {
-  display: flex;
-  justify-content: space-around;
-  gap: 10px;
-}
-.video-container iframe {
-  width: 23%;
-  aspect-ratio: 16/9;
-}
-</style>
 
 <style>
 .video-container {
   display: flex;
-  justify-content: space-around;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 10px;
 }
-.video-container iframe {
-  width: 23%;
+.video-item {
+  width: 45%;
+  text-align: center;
+}
+.video-item iframe {
+  width: 100%;
   aspect-ratio: 16/9;
 }
 </style>
+
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/aG24NlztZlA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe src="https://www.youtube.com/embed/aG24NlztZlA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe src="https://www.youtube.com/embed/aG24NlztZlA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe src="https://www.youtube.com/embed/aG24NlztZlA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/aG24NlztZlA?rel=0&modestbranding=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/bWhVyuJiKjY?rel=0&modestbranding=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/F-s1JsE70jo?rel=0&modestbranding=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/_Fo2fyZgbbY?rel=0&modestbranding=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
