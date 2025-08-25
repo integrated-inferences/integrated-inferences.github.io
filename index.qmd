@@ -14,6 +14,7 @@ You can buy the  book at [Cambridge University Press](https://www.cambridge.org/
 [guide](https://macartan.github.io/assets/pdf/papers/2025_CausalQueries.pdf) to forming, updating, and querying causal models with  `CausalQueries` (Tietz et al, provisionally accepted *JSS*)
 
 
+
 ```{r, echo = FALSE}
 # install.packages("DiagrammeR")
 ```
